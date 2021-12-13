@@ -2849,7 +2849,7 @@ PropDefinitions:
      Req: null
      Private: null
    #Property of Non-protocol Therapy Table:
-   Radiation Therapy:
+   Radiation_Therapy:
      Desc: Treatment of a disease by means of exposure of the target or the whole body to radiation. Radiation therapy is often used as part of curative therapy and occasionally as a component of palliative treatment for cancer. Other uses include total body irradiation prior to transplantation.
      Src: NA
      Type:
@@ -3101,7 +3101,7 @@ PropDefinitions:
      Req: null
      Private: null
    #Property of Off Protocol Therapy/Study Table:
-   Adverse Event:
+   Adverse_Event:
      Desc: Any unfavorable or unintended disease, sign, or symptom (including an abnormal laboratory finding) that is temporally associated with the use of a medical treatment or procedure, and that may or may not be considered related to the medical treatment or procedure. Such events can be related to the intervention, dose, route of administration, patient, or caused by an interaction with another drug(s) or procedure(s).
      Src: NA
      Type:
