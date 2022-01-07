@@ -576,8 +576,6 @@ PropDefinitions:
      Desc: A condition or event that is attributed to the adverse event and is the result or conclusion of the adverse event.
      Src: NA
      Type:
-        - "Death, contributory"
-        - "Death, noncontributory"
         - "Unknown"
         - "Not Reported"
         - "Not Recovered"
